@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Churchillk
-- 👀 I’m interested in programming, development graphic design and cyber Security
+- 👀 I’m I am a python, ruby, Javascript, Nodejs and Java programmer
 - 🌱 I’m currently interested in cybersecurity and programming 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 my portfolio is at  
 
-
+http://odhiambochurchill.infinityfreeapp.com
