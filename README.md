@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Odhiambo Churchill I’m I am a python, ruby, Javascript, Nodejs and Java programmer, Currently interested in cybersecurity and programming.  I’m looking to collaborate on projects  my portfolio is at  
+- 👋 Hi, I’m Odhiambo Churchill I’m I am a python, Javascript, php, C/C++ and Java programmer, Currently interested in cybersecurity and programming.  I’m looking foward to collaborate on projects  my portfolio is at  
 👉 http://odhiambochurchill.infinityfreeapp.com
