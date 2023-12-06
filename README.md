@@ -1,4 +1,4 @@
-<img src = "https://images.app.goo.gl/79bKNioEsuHiyb3Q7">
+<img src = "https://images.app.goo.gl/UkU9c4EhpHCKGxPr8">
 <h1 align="center">Hi 👋, I'm Odhiambo Churchill</h1>
 <h3 align="center">A passionate backend developer and Cybersecurity enthusiasts</h3>
 
