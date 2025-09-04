@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [http://odhiambochurchill.infinityfreeapp.com](http://odhiambochurchill.infinityfreeapp.com)
 
-- 💬 Ask me about **Python, Django, JS, Java, Ethical hacking**
+- 💬 Ask me about **Python, Django, JS, Ethical hacking**
 
 - 📫 How to reach me **churchilkodhiambo@gmail.com**
 
